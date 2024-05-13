@@ -6,11 +6,19 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a> or <a href="{{site.author.dblp}}">dblp</a>.</div>
 {% endif %}
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- **The Committing Security of MACs with Applications to Generic Composition**\\
+*Ritam Bhaumik, Bishwajit Chakraborty, Wonseok Choi, Avijit Dutta, Jérôme Govinden, and Yaobin Shen*\\
+**CRYPTO 2024**
+- **SoK: Efficient Design and Implementation of Polynomial Hash Functions over Prime Fields**\\
+*Jean Paul Degabriele, Jan Gilcher, Jérôme Govinden, and Kenneth G. Paterson*\\
+**S&P 2024**
+- **The Indiﬀerentiability of the Duplex and its Practical Applications**\\
+*Jean Paul Degabriele, Marc Fischlin, and Jérôme Govinden*\\
+**ASIACRYPT 2023**
+- [**The Security of ChaCha20-Poly1305 in the Multi-User Setting**](https://eprint.iacr.org/2023/085.pdf)\\
+*Jean Paul Degabriele, Jérôme Govinden, Felix Günther, and Kenneth G. Paterson*\\
+**CCS 2021**
