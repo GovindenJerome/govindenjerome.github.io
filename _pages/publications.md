@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 
-- **The Committing Security of MACs with Applications to Generic Composition**\\
+- [**The Committing Security of MACs with Applications to Generic Composition**](https://eprint.iacr.org/2024/928.pdf)\\
 *Ritam Bhaumik, Bishwajit Chakraborty, Wonseok Choi, Avijit Dutta, Jérôme Govinden, and Yaobin Shen*\\
 **CRYPTO 2024**
 - [**SoK: Efficient Design and Implementation of Polynomial Hash Functions over Prime Fields**](https://oaklandsok.github.io/papers/degabriele2024.pdf) [[GitHub repository]](https://github.com/jangilcher/polynomial_hashing_framework)\\
