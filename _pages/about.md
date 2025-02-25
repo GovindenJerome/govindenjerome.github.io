@@ -11,7 +11,7 @@ I am a PhD candidate in the [Cryptography and Network Security (CNS) Group](http
 
 In Fall 2024, I was privileged to visit the Cryptography Group at the University of Washington, hosted by [Stefano Tessaro](https://homes.cs.washington.edu/~tessaro/). Previously, I was a research intern in the [LIP6 Computer Science Laboratory](https://www.lip6.fr) and in the [Cryptography Research Center (CRC) of TII](https://www.tii.ae/cryptography). I obtained a Master in Mathematics with applications to Cryptology from Paris Diderot University (now Paris Cité University) and a Master in Computer Science from Pierre and Marie Curie University (now Sorbonne University). 
 
-You can find me on [linkedin](https://www.linkedin.com/in/jeromegovinden), and check out my [CV](/files/2024-06_Govinden_Jerome_CV.pdf) and [publications](/publications).
+You can find me on [linkedin](https://www.linkedin.com/in/jeromegovinden), and check out my [CV](/files/2025-02_Govinden_Jerome_CV.pdf) and [publications](/publications).
 
 
 Academic Services
