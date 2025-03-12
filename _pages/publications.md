@@ -13,7 +13,7 @@ author_profile: true
 - [**The Committing Security of MACs with Applications to Generic Composition**](https://eprint.iacr.org/2024/928.pdf)\\
 *Ritam Bhaumik, Bishwajit Chakraborty, Wonseok Choi, Avijit Dutta, Jérôme Govinden, and Yaobin Shen*\\
 **CRYPTO 2024**
-- [**SoK: Efficient Design and Implementation of Polynomial Hash Functions over Prime Fields**](https://oaklandsok.github.io/papers/degabriele2024.pdf) [[GitHub repository]](https://github.com/jangilcher/polynomial_hashing_framework)\\
+- [**SoK: Efficient Design and Implementation of Polynomial Hash Functions over Prime Fields**](https://eprint.iacr.org/2025/464.pdf) [[GitHub repository]](https://github.com/jangilcher/polynomial_hashing_framework)\\
 *Jean Paul Degabriele, Jan Gilcher, Jérôme Govinden, and Kenneth G. Paterson*\\
 **S&P 2024**
 - [**The Indiﬀerentiability of the Duplex and its Practical Applications**](https://doi.org/10.1007/978-981-99-8742-9_8)\\
