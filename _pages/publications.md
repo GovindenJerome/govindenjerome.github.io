@@ -10,6 +10,9 @@ author_profile: true
 {% endif %}
 
 
+- **Succinct PPRFs via Memory-Tight Reductions**\\
+*Joël Alwen, Chris Brzuska, Jérôme Govinden, Patrick Harasser, and Stefano Tessaro*\\
+**CRYPTO 2025**
 - [**The Committing Security of MACs with Applications to Generic Composition**](https://eprint.iacr.org/2024/928.pdf)\\
 *Ritam Bhaumik, Bishwajit Chakraborty, Wonseok Choi, Avijit Dutta, Jérôme Govinden, and Yaobin Shen*\\
 **CRYPTO 2024**
