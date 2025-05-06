@@ -8,8 +8,11 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a> or <a href="{{site.author.dblp}}">dblp</a>.</div>
 {% endif %}
+Authors are listed alphabetically, following the usual convention in the crypto community.
 
 
+Peer-Reviewed Papers in Conferences
+------
 - **Succinct PPRFs via Memory-Tight Reductions**\\
 *Joël Alwen, Chris Brzuska, Jérôme Govinden, Patrick Harasser, and Stefano Tessaro*\\
 **CRYPTO 2025**
@@ -25,3 +28,10 @@ author_profile: true
 - [**The Security of ChaCha20-Poly1305 in the Multi-User Setting**](https://eprint.iacr.org/2023/085.pdf)\\
 *Jean Paul Degabriele, Jérôme Govinden, Felix Günther, and Kenneth G. Paterson*\\
 **CCS 2021**
+
+
+Papers in Workshops without Proceedings
+------
+- [**Universal Hash Designs for an Accordion Mode**](https://csrc.nist.gov/csrc/media/Events/2024/accordion-cipher-mode-workshop-2024/documents/papers/universal-hash-designs-for-accordion-mode.pdf) [[Slides]](https://csrc.nist.gov/csrc/media/Presentations/2024/universal-hash-designs-for-an-accordion-mode/images-media/sess-7-degabriele-acm-workshop-2024.pdf) (presented by Jean Paul Degabriele)\\
+*Jean Paul Degabriele, Jan Gilcher, Jérôme Govinden, and Kenneth G. Paterson*\\
+**NIST Workshop on the Requirements for an Accordion Cipher Mode 2024**
