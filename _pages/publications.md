@@ -6,10 +6,8 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a> or <a href="{{site.author.dblp}}">dblp</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a> or <a href="{{site.author.dblp}}">dblp</a>. Authors are listed alphabetically, following the usual convention in the crypto community.</div>
 {% endif %}
-Authors are listed alphabetically, following the usual convention in the crypto community.
-
 
 Peer-Reviewed Papers in Conferences
 ------
