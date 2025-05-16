@@ -11,7 +11,7 @@ I’m a final‑year PhD candidate at TU Darmstadt, under the supervision of [Je
 
 In Fall 2024, I visited the Cryptography Group at the University of Washington, hosted by [Stefano Tessaro](https://homes.cs.washington.edu/~tessaro/). Previously, I was a research intern in the [Cryptography Research Center (CRC) of TII](https://www.tii.ae/cryptography) and in the [LIP6 Computer Science Laboratory](https://www.lip6.fr). I hold a Master degree in Mathematics (Paris Cité University) and Computer Science (Sorbonne University).
 
-You can find me on [linkedin](https://www.linkedin.com/in/jeromegovinden), and check out my [CV](/files/2025-02_Govinden_Jerome_CV.pdf) and [publications](/publications).
+You can find me on [linkedin](https://www.linkedin.com/in/jeromegovinden), and check out my [CV](/files/2025-05_Govinden_Jerome_CV.pdf) and [publications](/publications).
 
 
 Academic Services
