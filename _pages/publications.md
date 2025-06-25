@@ -11,7 +11,7 @@ author_profile: true
 
 Peer-Reviewed Papers in Conferences
 ------
-- **Succinct PPRFs via Memory-Tight Reductions**\\
+- [**Succinct PPRFs via Memory-Tight Reductions**](https://chrisbrzuska.de/SPPRF.pdf)\\
 *Joël Alwen, Chris Brzuska, Jérôme Govinden, Patrick Harasser, and Stefano Tessaro*\\
 **CRYPTO 2025**
 - [**The Committing Security of MACs with Applications to Generic Composition**](https://eprint.iacr.org/2024/928.pdf)\\
