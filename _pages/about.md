@@ -17,7 +17,7 @@ You can find me on [linkedin](https://www.linkedin.com/in/jeromegovinden), and c
 Academic Services
 ------
 **External Reviewer**\\
-2025: ACM CCS\\
+2025: ACM CCS, ASIACRYPT\\
 2024: CRYPTO, ACNS\\
 2023: CRYPTO, ACM CCS\\
 2022: CRYPTO, EUROCRYPT, ACM CCS, CT-RSA\\
