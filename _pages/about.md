@@ -18,7 +18,7 @@ Latest News
 ------
 (Jul. 2025) [Jean Paul Degabriele](https://degabriele.info) presented our proposal (with Jan Gilcher and Kenneth G. Paterson) for an [**Improved ChaCha-based AEAD Scheme**](https://datatracker.ietf.org/meeting/123/materials/slides-123-cfrg-improved-chacha-based-aead-scheme-00) as a work item of the CFRG at the [IETF 123](https://www.ietf.org/meeting/123/) meeting.
 
-(May 2025) Our paper **Succinct PPRFs via Memory-Tight Reductions** (with Joël Alwen, Chris Brzuska, Patrick Harasser, and Stefano Tessaro) was accepted to [CRYPTO 2025](https://crypto.iacr.org/2025/).
+(May 2025) Our paper [**Succinct PPRFs via Memory-Tight Reductions**](https://link.springer.com/chapter/10.1007/978-3-032-01901-1_20) (with Joël Alwen, Chris Brzuska, Patrick Harasser, and Stefano Tessaro) was accepted to [CRYPTO 2025](https://crypto.iacr.org/2025/).
 
 
 Academic Services
