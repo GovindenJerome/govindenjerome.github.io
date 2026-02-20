@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jérôme Govinden"
-description              : &description "I am a PhD candidate in the Cryptography and Network Security (CNS) Group at TU Darmstadt. My research centers around symmetric-key cryptography, particularly on the design and analysis of provably secure schemes with real-world applications."
+description              : &description "I'm a Cryptography Researcher (Contractor) at TII in the Protocols Team. My research centers around symmetric-key cryptography, particularly on the eﬃcient design, analysis, and implementation of provably secure schemes with real-world applications."
 url                      : https://jeromegovinden.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "govindenjerome/govindenjerome.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "Jerome_Gov.jpg"
   name             : "Jérôme Govinden"
   pronouns         : # example: "she/her"
-  bio              : "PhD Candidate in Cryptography"
-  location         : "Darmstadt, Germany"
-  employer         : "TU Darmstadt"
-  uri              : "https://www.informatik.tu-darmstadt.de/cns/main/team_cns/jerome_govinden_cns/index.en.jsp" # URL
-  email            : "jerome.govinden@tu-darmstadt.de"
+  bio              : "Cryptography Researcher"
+  location         : "Stuttgart, Germany"
+  employer         : "Technology Innovation Institute (TII)"
+  uri              : # "https://www.informatik.tu-darmstadt.de/cns/main/team_cns/jerome_govinden_cns/index.en.jsp" # URL
+  email            : "jerome.govinden@tii.ae"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
