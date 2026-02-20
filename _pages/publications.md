@@ -33,3 +33,10 @@ Abstracts in Workshops without Proceedings
 6. [**Universal Hash Designs for an Accordion Mode**](https://csrc.nist.gov/csrc/media/Events/2024/accordion-cipher-mode-workshop-2024/documents/papers/universal-hash-designs-for-accordion-mode.pdf) [[Slides]](https://csrc.nist.gov/csrc/media/Presentations/2024/universal-hash-designs-for-an-accordion-mode/images-media/sess-7-degabriele-acm-workshop-2024.pdf) (presented by Jean Paul Degabriele)\\
 *Jean Paul Degabriele, Jan Gilcher, Jérôme Govinden, and Kenneth G. Paterson*\\
 **NIST Workshop on the Requirements for an Accordion Cipher Mode 2024**
+
+
+Thesis
+------
+7. [**Improving the Security and Efficiency of Symmetric Primitives in Cryptography**](https://doi.org/10.26083/tuda-7755)\\
+*Jérôme Govinden*\\
+**PhD thesis, Technische Universität Darmstadt, 2025.**
