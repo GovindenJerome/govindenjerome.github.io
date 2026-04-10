@@ -16,18 +16,19 @@ You can find me on [linkedin](https://www.linkedin.com/in/jeromegovinden), and c
 
 Latest News
 ------
+(Apr. 2026) Our paper **New Designs of Multivariate-Polynomial Universal Hash Functions** (with Jean Paul Degabriele, Jan Gilcher, and Kenny Paterson) was accepted to [CCS 2026](https://www.sigsac.org/ccs/CCS2026/index.html).
+
 (Jan. 2026) I have started a new position as a Cryptography Researcher (Contractor) at [TII](https://www.tii.ae/cryptography) in the Protocols Team.
 
 (Dec. 2025) I have successfully defended my PhD thesis on [**Improving the Security and Efficiency of Symmetric Primitives in Cryptography**](https://doi.org/10.26083/tuda-7755). 
 
 (Jul. 2025) [Jean Paul Degabriele](https://degabriele.info) presented our proposal (with Jan Gilcher and Kenneth G. Paterson) for an [**Improved ChaCha-based AEAD Scheme**](https://datatracker.ietf.org/meeting/123/materials/slides-123-cfrg-improved-chacha-based-aead-scheme-00) as a work item of the CFRG at the [IETF 123](https://www.ietf.org/meeting/123/) meeting.
 
-(May 2025) Our paper [**Succinct PPRFs via Memory-Tight Reductions**](https://link.springer.com/chapter/10.1007/978-3-032-01901-1_20) (with Joël Alwen, Chris Brzuska, Patrick Harasser, and Stefano Tessaro) was accepted to [CRYPTO 2025](https://crypto.iacr.org/2025/).
-
 
 Academic Services
 ------
 **External Reviewer**\\
+2026: ACM TOMS\\
 2025: ACM CCS, ASIACRYPT\\
 2024: CRYPTO, ACNS\\
 2023: CRYPTO, ACM CCS\\
