@@ -47,7 +47,7 @@ Thesis supervision
 ------
 If you wish to write a Bachelor/Master thesis with me then please contact me via [email](mailto:jerome@jeromegovinden.com).\\
 **Master thesis**\\
-A. J. T.: Code-based security proof for CCM, 2026\\
+A. J. T.: Towards a code-based security proof for CCM, 2026\\
 A. C. T.: Formalism of the symmetric encryption mechanisms in the PDF 2.0 specification, 2025\\
 **Bachelor thesis**\\
 P. H.: Performance Analysis of Multilinear Galois Mode and variants, 2024\\
