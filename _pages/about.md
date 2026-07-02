@@ -27,6 +27,8 @@ Latest News
 
 Academic Services
 ------
+**Artifact Evaluation Committee Member**\\
+2026: ACM CCS\\
 **External Reviewer**\\
 2026: ACM TOMS\\
 2025: ACM CCS, ASIACRYPT\\
