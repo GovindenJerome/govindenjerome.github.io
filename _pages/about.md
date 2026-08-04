@@ -16,7 +16,7 @@ You can find me on [linkedin](https://www.linkedin.com/in/jeromegovinden), and c
 
 Latest News
 ------
-(Jul. 2026) We submitted [comments to NIST](https://groups.google.com/a/list.nist.gov/g/ciphermodes-forum/c/pCTDZeJ1wnQ) on the design of wide-GHASH for inclusion in wide Galois/Counter Mode (wGCM), with Jean Paul Degabriele, Jan Gilcher, and Kenneth G. Paterson.
+(Jul. 2026) We submitted [comments to NIST](https://groups.google.com/a/list.nist.gov/g/ciphermodes-forum/c/pCTDZeJ1wnQ/m/BChsX0Q8CQAJ) on the design of wide-GHASH for inclusion in wide Galois/Counter Mode (wGCM), with Jean Paul Degabriele, Jan Gilcher, and Kenneth G. Paterson.
 
 (May 2026) I am happy to serve on the [Artifact Evaluation Committee for ACM CCS 2026](https://sigsac.org/ccs/CCS2026/call-for/call-for-artifacts.html).
 
