@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-## University of Bamenda
+### University of Bamenda
 Since 2025, I have been supervising Master's theses remotely at the Centre for Cybersecurity and Mathematical Cryptology, University of Bamenda, as part of an international academic cooperation project.
 
-## Technische Universität Darmstadt
+### Technische Universität Darmstadt
 Winter semester 2021/2022: Teaching assistant for the lecture Symmetric Cryptography by Jean Paul Degabriele\\
 Winter semester 2020/2021: Teaching assistant for the lecture Symmetric Cryptography by Jean Paul Degabriele
 
