@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-## Artifact Evaluation Committee Member
+### Artifact Evaluation Committee Member
 2026: ACM CCS
 
-## External Reviewer
+### External Reviewer
 2026: ASIACRYPT, ACM TOMS\\
 2025: ACM CCS, ASIACRYPT\\
 2024: CRYPTO, ACNS\\
@@ -17,6 +17,6 @@ author_profile: true
 2022: CRYPTO, EUROCRYPT, ACM CCS, CT-RSA\\
 2021: CT-RSA, Financial Cryptography\\
 
-## Other Service
+### Other Service
 2015: Staff member for Cryptographic Hardware and Embedded Systems (CHES)
 
