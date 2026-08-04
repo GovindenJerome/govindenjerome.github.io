@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Jérôme Govinden"
 title_separator          : "-"
 name                     : &name "Jérôme Govinden"
 description              : &description "I'm a Cryptography Researcher (Contractor) at TII in the Protocols Team. My research centers around symmetric-key cryptography, particularly on the eﬃcient design, analysis, and implementation of provably secure schemes with real-world applications."
