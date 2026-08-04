@@ -16,13 +16,23 @@ You can find me on [linkedin](https://www.linkedin.com/in/jeromegovinden), and c
 
 Latest News
 ------
+(Jul. 2026) We submitted [comments to NIST](https://groups.google.com/a/list.nist.gov/g/ciphermodes-forum/c/pCTDZeJ1wnQ) on the design of wide-GHASH for inclusion in wide Galois/Counter Mode (wGCM), with Jean Paul Degabriele, Jan Gilcher, and Kenneth G. Paterson.
+
+(May 2026) I am happy to serve on the [Artifact Evaluation Committee for ACM CCS 2026](https://sigsac.org/ccs/CCS2026/call-for/call-for-artifacts.html).
+
 (Apr. 2026) Our paper **New Designs of Multivariate-Polynomial Universal Hash Functions** (with Jean Paul Degabriele, Jan Gilcher, and Kenny Paterson) was accepted to [CCS 2026](https://www.sigsac.org/ccs/CCS2026/index.html).
 
 (Jan. 2026) I have started a new position as a Cryptography Researcher (Contractor) at [TII](https://www.tii.ae/cryptography) in the Protocols Team.
 
 (Dec. 2025) I have successfully defended my PhD thesis on [**Improving the Security and Efficiency of Symmetric Primitives in Cryptography**](https://doi.org/10.26083/tuda-7755). 
 
-(Jul. 2025) [Jean Paul Degabriele](https://degabriele.info) presented our proposal (with Jan Gilcher and Kenneth G. Paterson) for an [**Improved ChaCha-based AEAD Scheme**](https://datatracker.ietf.org/meeting/123/materials/slides-123-cfrg-improved-chacha-based-aead-scheme-00) as a work item of the CFRG at the [IETF 123](https://www.ietf.org/meeting/123/) meeting.
+
+Research Interests
+------
+- Efficient design, tight security analysis, and high-performance implementation of provably secure schemes
+- Universal hashing and message authentication
+- Randomness extraction
+- Formal verification of cryptographic proofs and implementations
 
 
 Academic Services
@@ -35,22 +45,7 @@ Academic Services
 2024: CRYPTO, ACNS\\
 2023: CRYPTO, ACM CCS\\
 2022: CRYPTO, EUROCRYPT, ACM CCS, CT-RSA\\
-2021: CT-RSA, Financial Cryptography
+2021: CT-RSA, Financial Cryptography\\
+**Other Service**\\
+2015: Staff member for Cryptographic Hardware and Embedded Systems (CHES)
 
-
-Teaching
-------
-**Technische Universität Darmstadt**\\
-Winter semester 2021/2022: Teaching assistant for the lecture Symmetric Cryptography by Jean Paul Degabriele\\
-Winter semester 2020/2021: Teaching assistant for the lecture Symmetric Cryptography by Jean Paul Degabriele
-
-
-Thesis supervision
-------
-If you wish to write a Bachelor/Master thesis with me then please contact me via [email](mailto:jerome@jeromegovinden.com).\\
-**Master thesis**\\
-A. J. T.: Towards a code-based security proof for CCM, 2026\\
-A. C. T.: Formalism of the symmetric encryption mechanisms in the PDF 2.0 specification, 2025\\
-**Bachelor thesis**\\
-P. H.: Performance Analysis of Multilinear Galois Mode and variants, 2024\\
-C. M.: Analysis of the Impact of Dovetail Routing on the Anonymity of the Lightning Network (co-supervised by Jean Paul Degabriele), 2022
