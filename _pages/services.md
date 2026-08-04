@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-Academic Services
-------
 **Artifact Evaluation Committee Member**\\
 2026: ACM CCS\\
 **External Reviewer**\\
