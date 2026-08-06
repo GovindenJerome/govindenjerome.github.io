@@ -11,7 +11,7 @@ author_profile: true
 
 Peer-Reviewed Papers in Conferences
 ------
-1. **New Designs of Multivariate-Polynomial Universal Hash Functions**\\
+1. [**New Designs of Multivariate-Polynomial Universal Hash Functions**](https://eprint.iacr.org/2026/1602.pdf)\\
 *Jean Paul Degabriele, Jan Gilcher, Jérôme Govinden, and Kenneth G. Paterson*\\
 **CCS 2026**
 2. [**Succinct PPRFs via Memory-Tight Reductions**](https://link.springer.com/chapter/10.1007/978-3-032-01901-1_20)\\
