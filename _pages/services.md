@@ -16,7 +16,7 @@ author_profile: true
 2024: CRYPTO, ACNS\\
 2023: CRYPTO, ACM CCS\\
 2022: CRYPTO, EUROCRYPT, ACM CCS, CT-RSA\\
-2021: CT-RSA, Financial Cryptography\\
+2021: CT-RSA, Financial Cryptography
 
 ### Other Service
 2015: Staff member for Cryptographic Hardware and Embedded Systems (CHES)
