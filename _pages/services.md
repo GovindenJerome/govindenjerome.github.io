@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### Artifact Evaluation Committee Member
-2026: ACM CCS
+2026: ACM CCS — <a href="https://www.sigsac.org/ccs/CCS2026/program/awards.html" style="color: #B22222; font-weight: bold;">Top Artifact Evaluation Reviewer Award</a>
 
 ### External Reviewer
 2027: EUROCRYPT\\

@@ -16,6 +16,8 @@ You can find me on [linkedin](https://www.linkedin.com/in/jeromegovinden), and c
 
 Latest News
 ------
+(Nov. 2026) I am honored to receive the [**Top Artifact Evaluation Reviewer Award**](https://www.sigsac.org/ccs/CCS2026/program/awards.html) at ACM CCS 2026.
+
 (Nov. 2026) I will be presenting our paper [**New Designs of Multivariate-Polynomial Universal Hash Functions**](https://eprint.iacr.org/2026/1602.pdf) at [CCS 2026](https://www.sigsac.org/ccs/CCS2026/index.html) in The Hague!
 
 (Nov. 2026) Our paper **Symmetry Meets Security: Tweakable Involution Ciphers** (with Ritam Bhaumik, Bishwajit Chakraborty, Wonseok Choi, Avijit Dutta, and Yaobin Shen) was accepted to [ASIACCS 2027](https://asiaccs2027.cityu.edu.mo/home/index.html).
@@ -23,12 +25,6 @@ Latest News
 (Jul. 2026) We submitted [comments to NIST](https://groups.google.com/a/list.nist.gov/g/ciphermodes-forum/c/pCTDZeJ1wnQ/m/BChsX0Q8CQAJ) on the design of wide-GHASH for inclusion in wide Galois/Counter Mode (wGCM), with Jean Paul Degabriele, Jan Gilcher, and Kenneth G. Paterson.
 
 (May 2026) I am happy to serve on the [Artifact Evaluation Committee for ACM CCS 2026](https://sigsac.org/ccs/CCS2026/call-for/call-for-artifacts.html).
-
-(Apr. 2026) Our paper [**New Designs of Multivariate-Polynomial Universal Hash Functions**](https://eprint.iacr.org/2026/1602.pdf) (with Jean Paul Degabriele, Jan Gilcher, and Kenny Paterson) was accepted to [CCS 2026](https://www.sigsac.org/ccs/CCS2026/index.html).
-
-(Jan. 2026) I have started a new position as a Cryptography Researcher (Contractor) at [TII](https://www.tii.ae/cryptography) in the Protocols Team.
-
-(Dec. 2025) I have successfully defended my PhD thesis on [**Improving the Security and Efficiency of Symmetric Primitives in Cryptography**](https://doi.org/10.26083/tuda-7755). 
 
 
 Research Interests
