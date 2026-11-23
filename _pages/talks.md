@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-- **New Designs of Multivariate-Polynomial Universal Hash Functions**\\
+- **New Designs of Multivariate-Polynomial Universal Hash Functions** [\[Slides\]](/files/CCS2026-presentation.pdf)\\
 *CCS 2026* - The Hague, The Netherlands - 17/11/2026
 - **The Committing Security of MACs with Applications to Generic Composition** [\[Slides\]](/files/Crypto24-committing-MACs-Slides.pdf) [\[Video\]](https://youtu.be/pfwb_lsHpk0?si=sh29QTTVcDl-UBLE&t=2358)\\
 *CRYPTO 2024* - Santa Barbara, CA, USA - 22/08/2024
